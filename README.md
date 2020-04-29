@@ -3,10 +3,7 @@
 <p>
 <img src="https://github.com/hellochirag/BookDetails/blob/master/image/1.png" width = "300"/>
 <img src="https://github.com/hellochirag/BookDetails/blob/master/image/2.png" width = "300"/>
-
 <img src="https://github.com/hellochirag/BookDetails/blob/master/image/3.png" width = "300"/>
-<img src="https://github.com/hellochirag/BookDetails/blob/master/image/2.png" width = "300"/>
-
 </p>
 
 
