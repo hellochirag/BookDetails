@@ -1,0 +1,6 @@
+module Pods_PractialTest {
+  umbrella header "Pods-PractialTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
